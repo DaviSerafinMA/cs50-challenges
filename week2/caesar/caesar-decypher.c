@@ -23,7 +23,7 @@ int main(int argc,string argv[])
 
     return 0;
 }
-
+// turn string into int
 int strint(string s)
 {
     for(int i = 0, n = strlen(s); i < n; i++)
