@@ -19,7 +19,7 @@ int main(int argc,string argv[])
     strint(ctxt);
     
     int itxt = atoi(ctxt);
-    printf("Word %i\n", key);
+    //printf("Word %i\n", key);
 
     return 0;
 }
